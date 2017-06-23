@@ -1,4 +1,6 @@
 #!/usr/bin/env ruby
+# A simple class to show Ruby syntax
+
 class MegaGreeter
     attr_accessor :names
 
